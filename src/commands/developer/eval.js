@@ -1,4 +1,5 @@
 /* eslint-disable no-eval */
+// Eval
 
 const { CommandStructures } = require('../../')
 const { Command, CommandRequirements, CommandParameters, StringParameter } = CommandStructures
