@@ -616,7 +616,7 @@
     "success": "{{- _author}} pats {{- pat}}"
   },
   "hug": {
-    "commandDescription": "Hugges someone",
+    "commandDescription": "Hugs someone",
     "commandUsage": "<user to hug>",
     "noMention": "You need to mention someone",
     "success": "{{- hugger}} hugged {{- hugged}}"
